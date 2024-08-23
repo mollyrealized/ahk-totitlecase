@@ -5,7 +5,7 @@ This is an AutoHotKey conversion of [to-title-case](https://github.com/gouch/to-
 
 ## About This Conversion
 
-This project was converted from JavaScript to AutoHotKey by Molly Harris with the assistance of Claude 3.5 Sonnet. The original functionality has been preserved, with adaptations made for AutoHotKey's specific syntax and capabilities.
+This project was converted from JavaScript to AutoHotKey by MollyRealized with the assistance of Claude 3.5 Sonnet. The original functionality has been preserved, with adaptations made for AutoHotKey's specific syntax and capabilities.
 
 ## Original Project
 
