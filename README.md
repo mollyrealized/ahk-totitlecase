@@ -13,4 +13,4 @@ Please check out the [original JavaScript project](https://github.com/gouch/to-t
 
 ## License
 
-This project is licensed under the [MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [LICENSE.md](LICENSE.md) file for details.
